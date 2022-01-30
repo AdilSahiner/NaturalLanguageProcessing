@@ -4,6 +4,8 @@
 
 Click on the mybinder badge to start interacting with the code in a separate environment on mybinder. 
 
+Due to the big size of dataset, I could not store it directly on github, so notice that you need to unzip it first in order to run the model
+
 # Usage
 
 In order to run the code, you need to install the dependencies mentioned in requirements.txt. 
